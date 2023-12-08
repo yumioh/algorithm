@@ -1,4 +1,12 @@
-## File Directory
+## 📙 알고리즘과 sql 공부를 위한 Repository
 
-├─python <br>
-└─sql
+<br> 
+
+##  🗂 File Directory
+
+<br> 
+
+├─structure : 자료구조 책 기반 (python) <br> 
+├─python : 프로그래머스의 연습 문제  <br> 
+└─sql : 프로그래머스의 연습 문제 (oracle, mysql)
+
