@@ -16,5 +16,3 @@ WHERE GroupName = 'Sales and Marketing'
 SELECT * FROM HumanResources.EmployeeDepartmentHistory AS a, HumanResources.Department AS b
 WHERE a.DepartmentID=b.DepartmentID
 AND b.GroupName = 'Sales and Marketing'
-
-
